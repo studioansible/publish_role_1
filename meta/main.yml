@@ -1,0 +1,17 @@
+galaxy_info:
+  role_name: publish_role_1
+  author: studioansible
+  description: publish role 1
+  company: studioansible
+  issue_tracker_url: '-'
+  license: MIT
+  min_ansible_version: 0.0.1
+  min_ansible_container_version: 0.0.1
+  github_branch: master
+  galaxy_tags:
+    - tag1
+  platforms:
+    - name: Windows
+      versions:
+        - 0.0.1
+dependencies: []
